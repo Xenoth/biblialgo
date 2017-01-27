@@ -10,7 +10,7 @@ The C++ codes are Unit Testing
 * make
 
 ##Try
-Simply execute the Makefile then
+Simply execute the Makefile
 ```
 make
 ```
