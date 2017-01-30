@@ -20,5 +20,5 @@ Then run the executable
 ```
 
 ##Authors
-* BAILLEUX Pol (C Library)
+* BAILLEUX Pol (@Xenoth - C Library)
 * BERNARD Julien (Unit Testing, C++ and make files)
